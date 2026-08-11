@@ -132,16 +132,11 @@ Relevant Career Context
         │
         ▼
 Gemini
-## 🏗️ RAG Architecture
 
-SmartHire GenAI uses a Retrieval-Augmented Generation (RAG) pipeline
-to provide grounded and contextual career guidance.
 
-<p align="center">
-  <img src="images/rag_architecture.png"
-       alt="SmartHire GenAI RAG Architecture"
-       width="100%">
-</p>
+
+
+
         │
         ▼
 Career Mentor Response
