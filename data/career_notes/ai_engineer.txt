@@ -1,0 +1,61 @@
+CAREER PATH: AI ENGINEER
+
+Role Overview:
+An AI Engineer designs, develops, integrates, and deploys artificial intelligence systems. AI Engineers commonly work with machine learning, deep learning, generative AI, natural language processing, computer vision, and large language models.
+
+Core Skills:
+- Python
+- Machine Learning
+- Deep Learning
+- Data Structures and Algorithms
+- Statistics and Probability
+- SQL
+- Git and GitHub
+- REST APIs
+- Model deployment
+- Docker
+- Cloud fundamentals
+
+Generative AI Skills:
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Retrieval Augmented Generation (RAG)
+- Vector Databases
+- Embeddings
+- LangChain or similar orchestration frameworks
+- LLM evaluation
+- Guardrails
+- Fine-tuning fundamentals
+
+Useful Libraries and Frameworks:
+- PyTorch
+- TensorFlow
+- Scikit-learn
+- Hugging Face Transformers
+- Pandas
+- NumPy
+- FastAPI
+- LangChain
+
+Projects to Build:
+- RAG-based career assistant
+- Resume analysis system
+- Document question-answering system
+- AI chatbot
+- Image classification system
+- Recommendation system
+- LLM-powered application
+
+Entry-Level Preparation:
+Students should build 2-4 strong projects, understand Python and machine learning fundamentals, practice DSA, learn Git/GitHub, and gain practical experience deploying AI applications.
+
+Recommended Learning Order:
+1. Python
+2. Data Structures and Algorithms
+3. Machine Learning
+4. Deep Learning
+5. APIs and deployment
+6. Generative AI and LLMs
+7. RAG and vector databases
+8. LLM evaluation and guardrails
+9. Cloud and production deployment

@@ -1,0 +1,58 @@
+CAREER GUIDANCE FOR AI AND ML STUDENTS
+
+Building a Career:
+Students interested in AI and ML should combine theoretical knowledge with practical projects.
+
+Important Areas:
+- Python programming
+- Data Structures and Algorithms
+- Machine Learning
+- Deep Learning
+- Generative AI
+- SQL
+- Git and GitHub
+- APIs
+- Cloud computing
+- Communication skills
+
+Portfolio:
+A strong portfolio should contain projects that demonstrate practical problem solving rather than only tutorial implementations.
+
+A good project should clearly explain:
+- Problem statement
+- Dataset
+- Approach
+- Technologies used
+- Model or system architecture
+- Evaluation metrics
+- Results
+- Limitations
+- Future improvements
+
+Resume:
+Resume projects should describe the candidate's individual contribution, technologies used, and measurable results whenever possible.
+
+Instead of:
+"Built a machine learning project."
+
+Prefer:
+"Developed a machine learning classification system using Python and Scikit-learn, achieving measurable performance on a benchmark dataset."
+
+Skill Gaps:
+Students should compare their current skills against the requirements of their target role. Missing skills should be prioritized based on job relevance.
+
+Learning Strategy:
+Do not attempt to learn every technology simultaneously. Identify a target role, analyze job requirements, identify skill gaps, and learn the most relevant skills first.
+
+Interview Preparation:
+Candidates should prepare:
+- DSA
+- Core computer science concepts
+- Machine learning fundamentals
+- Project explanations
+- Resume-based questions
+- Behavioral questions
+- System design fundamentals for relevant roles
+
+Career Growth:
+Start with strong fundamentals, build projects, gain internships or practical experience, and gradually learn production-level AI engineering skills.
