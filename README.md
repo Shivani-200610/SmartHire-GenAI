@@ -10,6 +10,9 @@ knowledge retrieval, AI-generated recommendations, and resume improvement
 into a single application.
 
 ---
+## 🚀 Live Demo
+
+🔗 [Try SmartHire GenAI](https://smarthire-genai-8xphsjg6ohow4mrkv4xa2z.streamlit.app/)
 
 ## ✨ Key Features
 
